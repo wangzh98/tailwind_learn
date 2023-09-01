@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acdc82aa-ea6c-4d77-b187-94e7a65d1698" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/avatar-ali.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/avatar-anisha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/avatar-richard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/avatar-shanai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg-simplify-section-desktop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg-simplify-section-mobile.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg-tablet-pattern.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon-close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon-facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon-hamburger.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon-instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon-pinterest.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon-twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon-youtube.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/illustration-intro.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +39,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -89,11 +69,17 @@
       <option name="presentableId" value="Default" />
       <updated>1693396578267</updated>
       <workItem from="1693396579403" duration="601000" />
-      <workItem from="1693397207050" duration="3934000" />
+      <workItem from="1693397207050" duration="9106000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="181" y="136" key="SettingsEditor" timestamp="1693521640813">
+      <screen x="0" y="25" width="1920" height="951" />
+    </state>
+    <state x="181" y="136" key="SettingsEditor/0.25.1920.951/-1792.79.1792.1095@0.25.1920.951" timestamp="1693521640813" />
   </component>
 </project>
